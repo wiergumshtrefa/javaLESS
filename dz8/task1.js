@@ -1,7 +1,7 @@
 const prompt = require('prompt-sync')();
 
-const worlds 
+const text = prompt('введите любой текст');
 
 function A (letters, numbers,symbol) {
-    
+    let podschet
 }
